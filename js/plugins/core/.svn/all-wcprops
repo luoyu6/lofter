@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/ld/!svn/ver/32/lofter/js/plugins/core
+END
+loadconfig.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/loadconfig.js
+END
+dtd.js
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/dtd.js
+END
+EventBase.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/EventBase.js
+END
+localstorage.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/localstorage.js
+END
+htmlparser.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/htmlparser.js
+END
+filterword.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/filterword.js
+END
+browser.js
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/browser.js
+END
+ajax.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/ajax.js
+END
+node.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/node.js
+END
+Selection.js
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/Selection.js
+END
+Editor.defaultoptions.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/Editor.defaultoptions.js
+END
+keymap.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/keymap.js
+END
+Editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/Editor.js
+END
+filternode.js
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/filternode.js
+END
+Range.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/Range.js
+END
+plugin.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/plugin.js
+END
+domUtils.js
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/domUtils.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/ld/!svn/ver/32/lofter/js/plugins/core/utils.js
+END
