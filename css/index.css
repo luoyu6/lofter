@@ -1,5 +1,4 @@
-ww body,
-html {
+body,html {
 	background: #EDEDEF;
 	height: 100%;
 	width: 100%;
@@ -14,7 +13,10 @@ html {
 	position: relative;
 	width: 254px;
 }
-
+.lf_header .navbox{
+	    margin: 0 auto;
+    width: 928px;
+}
 header {
 	background: #24292C;
 	height: 81px;
